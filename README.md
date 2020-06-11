@@ -1,2 +1,2 @@
-# Lab_1-Sizan-
-Lab_2
+# Lab_1-Suzan-
+Lab_1
