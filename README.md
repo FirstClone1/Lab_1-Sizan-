@@ -1,2 +1,2 @@
-# Lab_2-Sizan-
+# Lab_1-Sizan-
 Lab_2
